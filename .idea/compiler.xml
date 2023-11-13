@@ -9,5 +9,8 @@
         <module name="InfHotel-Plus" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="infHotel-Plus" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
